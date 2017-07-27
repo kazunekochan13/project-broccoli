@@ -1,0 +1,2 @@
+# project-broccoli
+Trading bot
