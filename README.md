@@ -1,2 +1,2 @@
 # project-broccoli
-Trading bot
+summer project by KazuNekoCHAN13 and Ocelot1
